@@ -23,8 +23,8 @@ class ViewController: UIViewController {
         print(calculate.sub(x: 10, y: 5));
      
         // branch abcdef
-        print(calculate.add(x: 10, y: 5));
-        print(calculate.sub(x: 10, y: 5));
+        print(calculate.add(x: 20, y: 5));
+        print(calculate.sub(x: 20, y: 5));
     }
     
     
