@@ -18,6 +18,9 @@ class ViewController: UIViewController {
         print(calculate.add(x: 10, y: 5));
         print(calculate.sub(x: 10, y: 5));
         
+        print(calculate.add(x: 10, y: 5));
+        print(calculate.sub(x: 10, y: 5));
+        
     }
     
     
