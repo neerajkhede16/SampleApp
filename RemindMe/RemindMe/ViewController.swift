@@ -29,6 +29,10 @@ class ViewController: UIViewController {
         // branch abcdefghi
         print(calculate.add(x: 30, y: 5));
         print(calculate.sub(x: 30, y: 5));
+        
+        // test cherry picking
+        print(calculate.add(x: 30, y: 5));
+        print(calculate.sub(x: 30, y: 5));
     }
     
     
