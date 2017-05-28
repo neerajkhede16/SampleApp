@@ -50,5 +50,7 @@ class Calculate
     func sub(x:Int,y:Int) -> Int {
         return x-y;
     }
+    
+    // feature 1 some changes. >> 1
 }
 
