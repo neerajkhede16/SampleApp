@@ -33,7 +33,7 @@ class ViewController: UIViewController {
     
     // feature 1 changes. 
     
-    // after rebase feature 1 change. 
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
