@@ -52,5 +52,6 @@ class Calculate
     }
     
     // feature 1 some changes. >> 1
+    // feature 1 some changes. >> 2
 }
 
