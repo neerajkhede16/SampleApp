@@ -31,9 +31,9 @@ class ViewController: UIViewController {
         print(calculate.sub(x: 30, y: 5));
     }
     
+    // feature 1 changes. 
     
-    
-    
+    // after rebase feature 1 change. 
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -51,6 +51,11 @@ class Calculate
         return x-y;
     }
     
+
     // master changes.
+
+    // feature 1 some changes. >> 1
+    // feature 1 some changes. >> 2
+
 }
 
